@@ -7,10 +7,10 @@ In this work, a method involves finding underlying patterns in a dataset and con
 Some relevant columns in the normalized dataset:
 
 Date - The date of the observation
-- Time Ok - Format hour
+- Time
 - WS - Wind Speed in $\frac{m}{s}$
 - SR - Solar Radiation in $\frac{W}{m^2}$
 - TP - Temperature in °C
 
-This data set corresponds to two different date time starting on December 13th, 2018, at 2:30 am until March 9th, 2020,  at 6:40 pm.
+This data set corresponds to two different date-time starting in 2018, on December 13th, at 2:30 am until 2020, March 9th,  at 6:40 pm.
 
